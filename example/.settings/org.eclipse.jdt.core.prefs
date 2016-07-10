@@ -10,3 +10,11 @@ org.eclipse.jdt.core.compiler.debug.sourceFile=generate
 org.eclipse.jdt.core.compiler.problem.assertIdentifier=error
 org.eclipse.jdt.core.compiler.problem.enumIdentifier=error
 org.eclipse.jdt.core.compiler.source=1.6
+
+<servers>
+  <server>
+    <id>github</id>
+    <username>prernaw6</username>
+    <password>siemens1234$</password>
+  </server>  
+</servers>
